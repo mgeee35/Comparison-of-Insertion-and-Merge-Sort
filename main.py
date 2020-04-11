@@ -1,3 +1,10 @@
+"""
+Ege University ICI Fundamental Algorithmic Techniques Assignment
+Comparison of Insertion and Merge Sort
+Mustafa Guclu
+April 2020 - GNU GPL v3 Licensed
+"""
+
 import insertionsort
 import mergesort
 import randomnumber
